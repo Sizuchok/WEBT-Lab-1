@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+.uphor, .downhor{
+    width: 100%;
+    height: 20%;
+    background-color: #6968B0;
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.downhor{
+
+}
+
+.contfor{
+    display: flex;
+}
+
+.confortwo{
+    width: 100%;
+}
+
+
+.bar2{
+    height: 60%;
+    width: 17%;
+    background-color: #ECA841;
+}
+
+.bar5{
+    background-color: #ECA841;
+    height: 17%;
+}
+
+
