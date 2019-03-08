@@ -1,9 +1,20 @@
 *{
     margin: 0;
+    
 }
 
-table, td{
-    border: 3px solid black;
+td{
+     text-align: center;
+     
+}
+
+h1, a, td{
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    font-size: 40px;
 }
 
 table {
@@ -31,4 +42,8 @@ table {
 
 #td5{
     height: 17%;
+}
+
+#tded{
+    color: #000;
 }

@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+div{
+    text-align: center;
+}
+.container{
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.boxmenu{
+    height: 35%;
+    width: 30%;
+    position: relative;
+}
+
+.boxmenu div{
+    height: 18%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 18px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boxmenu div a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+}
+
+.blocks{
+    background-color: #6968B0;
+}
+
+.table{
+    background-color: #ECA841;
+}
+
+.picture{
+    background-color: #6968B0;
+}
+
+.form{
+    background-color: #ECA841;
+}
