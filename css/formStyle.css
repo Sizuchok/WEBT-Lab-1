@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+
+.wrapp{
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+form{
+    width: 450px;
+}
+
+fieldset{
+    border-radius: 15px;
+    border: 3px solid #6968B0;
+}
+
+button{
+    width: 100px;
+    border: none;
+	border-radius: 20px;
+	height: 50px;
+	background: #6968B0;
+    color: #fff;
+    font-size: 17px;
+}
+
+label{
+    float: left;
+    margin-left: 30px;
+}
+.forminput{
+    text-align: right;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+#bday, #email, #fullname{
+    width: 200px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+}
+
+.butt{
+    text-align: center;
+}
+
+#sex1{
+    margin-left: 10px;
+}
